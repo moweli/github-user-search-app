@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const Header = styled.div`
+export const NavStyled = styled.div`
   display: flex;
   place-items: center;
   justify-content: space-between;
